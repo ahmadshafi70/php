@@ -1,0 +1,16 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^realwebidea\.com [NC]
+RewriteRule (.*) https://www.realwebidea.com/$1 [L,R=301]
+
+
+redirect 301 /index.htm  http://www.realwebidea.com/
+redirect 301 /portfolio.htm  https://www.realwebidea.com/portfolio.html
+redirect 301 /web-design.htm  https://www.realwebidea.com/
+redirect 301 /web-development.htm  https://www.realwebidea.com/web-development.html
+redirect 301 /seo-services.htm  https://www.realwebidea.com/seo-services.html  
+redirect 301 /seo-training-lahore.htm  https://www.realwebidea.com/seo-training-lahore.html
+redirect 301 /php-training-course-lahore.htm  https://www.realwebidea.com/
+redirect 301 /contact.php  https://www.realwebidea.com/contact.html
