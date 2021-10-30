@@ -1,7 +1,16 @@
+<?php
+// Start the session
+session_start();
+?>
 <!doctype html>
 <html>
 <?php include('layouts/head.php') ?>
-
+<?php 
+$_SESSION["title"] = "From About Us";
+$_SESSION["content"] = "My First Content";
+$_SESSION["robots"] = "";
+$_SESSION["code"] = "";
+?>
 <body>
 	
     <div id="top_arrow"></div>

@@ -4,18 +4,18 @@
     			<div class="container">
     				<div class="col-md-8 offset-md-2">
 						<p>
-							<a href="https://www.facebook.com/realwebidea/" rel="nofollow" target="_blank" title="Real Web Idea | Facebook">
-								<img src="images/social-media/facebook.png" width="37" height="37" alt="RealWebIdea Lahore"/>
+							<a href="https://www.facebook.com/SEO LYTIX/" rel="nofollow" target="_blank" title="SEO LYTIXa | Facebook">
+								<img src="images/social-media/facebook.png" width="37" height="37" alt="SEO LYTIX Lahore"/>
 							</a>
-							<a href="https://twitter.com/realwebidea" rel="nofollow" target="_blank" title="Real Web Idea | Twitter">
-								<img src="images/social-media/twitter.png" width="37" height="37" alt="RealWebIdea Lahore"/>
+							<a href="https://twitter.com/SEO LYTIX" rel="nofollow" target="_blank" title="SEO LYTIXa | Twitter">
+								<img src="images/social-media/twitter.png" width="37" height="37" alt="SEO LYTIX Lahore"/>
 							</a> 
-							<a href="https://pk.linkedin.com/in/realwebidea" rel="nofollow" target="_blank" title="Real Web Idea | Linkedin">
-								<img src="images/social-media/linkedin.png" width="37" height="37" alt="RealWebIdea Lahore"/>
+							<a href="https://pk.linkedin.com/in/SEO LYTIX" rel="nofollow" target="_blank" title="SEO LYTIXa | Linkedin">
+								<img src="images/social-media/linkedin.png" width="37" height="37" alt="SEO LYTIX Lahore"/>
 							</a>  
 						</p>
 
-<p>Hire our Search Engine Optimization services to get top ranking of your website in Google's 1st Page in organic results on SERP, also you can hire SEM/PPC services for ROI quick results as well as get SMO/SMM services to stand alone on social media platforms.</p>
+					<p>Hire our Search Engine Optimization services to get top ranking of your website in Google's 1st Page in organic results on SERP, also you can hire SEM/PPC services for ROI quick results as well as get SMO/SMM services to stand alone on social media platforms.</p>
    					</div>
     			</div>
     		</div> <!--footer-top ends-->
@@ -23,6 +23,50 @@
 
 
     		<div class="container-fluid">
+    				<div class="footer-top">
+    				<div class="row">
+					  <div class="col-md-3 col-sm-6 wow slideInUp">
+							<div class="rwi-contacts">
+						  		<span>
+						  			<img src="images/contact-icons/phone.png" width="60" height="60" alt="SEO LYTIX Lahore"/>
+						  		</span>
+						  		<div class="contacts-txt">
+						  			<a href="tel:+923008189123">+92 32449596666</a> 
+						  		</div>
+						  	</div>
+					  </div>
+					  <div class="col-md-3 col-sm-6 wow slideInUp">
+							<div class="rwi-contacts">
+						  		<span>
+						  			<img src="images/contact-icons/envelope.png" width="60" height="60" alt="SEO LYTIX Lahore"/>
+						  		</span>
+						  		<div class="contacts-txt">
+						  			<a href="mailto:SEO LYTIX@gmail.com">info@seolytix.com</a>
+						  		</div>
+						  	</div>
+					  </div>
+					  <div class="col-md-3 col-sm-6 wow slideInUp">
+							<div class="rwi-contacts">
+						  		<span>
+						  			<img src="images/contact-icons/skype.png" width="60" height="60" alt="SEO LYTIX Lahore"/>
+						  		</span>
+						  		<div class="contacts-txt">
+						  			SEO Lytix
+						  		</div>
+						  	</div>
+					  </div>
+					  <div class="col-md-3 col-sm-6 wow slideInUp">
+							<div class="rwi-contacts">
+						  		<span>
+						  			<img src="images/contact-icons/map-marker.png" width="60" height="60" alt="SEO LYTIX Lahore"/>
+						  		</span>
+						  		<div class="contacts-txt">
+						  			House 3, Street 2, Gullberg.
+						  		</div>
+						  	</div>
+					  </div>
+    				</div>
+    			</div> <!--footer-top ends-->
 	            <div class="footer-bot">
     				<div class="container">
     					<div class="row">
@@ -54,11 +98,11 @@
 										<li><a href="seo-training-lahore.html">SEO Course</a></li>
 										<li><a href="ppc-training-lahore.html">PPC Course</a></li>
 										<li><a href="smm-training-lahore.html">SMM Course</a></li>
-										<li><a href="seo-audit-training-lahore.html">SEO Audits Course</a></li>
+									<!-- 	<li><a href="seo-audit-training-lahore.html">SEO Audits Course</a></li>
                                         <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
                                         <li><a href="wordpress-web-development-course-lahore.html">WordPress Web Development Course</a></li>
                                         <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                		<li><a href="content-writing-training-lahore.html">Content Writing Course</a></li>
+                                		<li><a href="content-writing-training-lahore.html">Content Writing Course</a></li> -->
 									</ul>
 								</div>
    							</div>
@@ -73,7 +117,7 @@
                                         <li><a href="portfolio.html">Clients</a></li>
                                         <li><a href="admission-form.html">Admission Form</a></li>
                                         <li><a href="contact.html">Contact Us</a></li>
-                                        <li><a href="realwebidea-brochure.html">Download Brochure</a></li>
+                                        <li><a href="SEO LYTIX-brochure.html">Download Brochure</a></li>
                                         <li><a href="payment-options.html">Payment Options</a></li>
 									</ul>
 								</div>
@@ -84,54 +128,11 @@
     			</div> <!--footer-bot ends-->            
 
 
-    			<div class="footer-top">
-    				<div class="row">
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/phone.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			<a href="tel:+923008189123">+92 300 8189123</a> 
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/envelope.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			<a href="mailto:realwebidea@gmail.com">realwebidea@gmail.com</a>
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/skype.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			realwebidea 
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/map-marker.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			UM-99-98, Zainab Tower, Link Road Model Town, Lahore.
-						  		</div>
-						  	</div>
-					  </div>
-    				</div>
-    			</div> <!--footer-top ends-->
+    		
     		</div>	
             
 			<div class="copyrights-area">
-		    	<p>&copy; 2007 - 2021 realwebidea, All rights reserved</p>
+		    	<p>&copy; 2007 - 2021 seolytix.com, All rights reserved</p>
 		    </div> <!--copyrights-area ends-->
     	</div>
     </footer>

@@ -4,7 +4,7 @@
             <div class="container-fluid">
                 <p>
                 <i class="fa fa-bullhorn"></i>&nbsp; 
-                    Since 2007 Real Web Idea serving in Web Development, SEO, PPC, SMM, YouTube
+                     SEO LYTIX Offering services in Web Development, SEO, PPC, SMM, YouTube
                 </p>
             </div>
     	</div> <!--news-updates ends-->
@@ -23,41 +23,37 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="active">
-                        	<a href="https://www.realwebidea.com/"><i class="fa fa-home"></i> Home 
+                        	<a href="https://www.seolytix.com/"><i class="fa fa-home"></i> Home 
                         	<span class="sr-only">(current)</span></a>
                         </li>
-                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="about.php">About Us</a></li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a href="web-development.html">Web Development</a></li>
-                                <li><a href="digital-marketing.html">Digital Marketing</a></li>
-                                <li><a href="seo-services.html">SEO – Search Engine Optimization</a></li>
-                                <li><a href="ppc-services.html">PPC – Pay per Click</a></li>
-                                <li><a href="smm-services.html">SMM – Social Media Marketing</a></li>
-                                <li><a href="seo-audit-services.html">SEO Audits</a></li>
-                                <li><a href="seo-penalty-removal.html">SEO Penalty Removal</a></li>
-                                <li><a href="ecommerce-seo.html">e-Commerce SEO</a></li>
-                                <li><a href="content-writing-services.html">Content Writing </a></li>
+                                <li><a href="web-development.php">Web Development</a></li>
+                                <li><a href="digital-marketing.php">Digital Marketing</a></li>
+                                <li><a href="seo-services.php">SEO – Search Engine Optimization</a></li>
+                                <li><a href="ppc-services.php">PPC – Pay per Click</a></li>
+                                <li><a href="smm-services.php">SMM – Social Media Marketing</a></li>
+                                <li><a href="seo-audit-services.php">SEO Audits</a></li>
+                                <li><a href="seo-penalty-removal.php">SEO Penalty Removal</a></li>
+                                <li><a href="ecommerce-seo.php">e-Commerce SEO</a></li>
+                                <li><a href="content-writing-services.php">Content Writing </a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
                             <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Trainings</a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a href="digital-marketing-training-lahore.html">Digital Marketing Course</a></li>
-										<li><a href="seo-training-lahore.html">SEO Course</a></li>
-										<li><a href="ppc-training-lahore.html">PPC Course</a></li>
-										<li><a href="smm-training-lahore.html">SMM Course</a></li>
-										<li><a href="seo-audit-training-lahore.html">SEO Audits Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                        <li><a href="wordpress-web-development-course-lahore.html">WordPress Web Development Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                		<li><a href="content-writing-training-lahore.html">Content Writing Course</a></li>
+                                <li><a href="digital-marketing-training-lahore.php">Digital Marketing Course</a></li>
+										<li><a href="seo-training-lahore.php">SEO Course</a></li>
+										<li><a href="ppc-training-lahore.php">PPC Course</a></li>
+										<li><a href="smm-training-lahore.php">SMM Course</a></li>
+								        
                             </ul>
                         </li>
-                        <li><a href="portfolio.html">Clients</a></li>
-                        <li><a href="our-team.html">Our Team</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="portfolio.php">Clients</a></li>
+                        <!-- <li><a href="our-team.php">Our Team</a></li> -->
+                        <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                 </div>
             </nav>

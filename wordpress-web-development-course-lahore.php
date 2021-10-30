@@ -1,38 +1,16 @@
+<?php
+// Start the session
+session_start();
+?>
 <!doctype html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-    
-	<title>WordPress Web Development Courses Institute Lahore | Real Web Idea</title>
-    <meta name="description" content="">
-    <link rel="icon" type="image/jpg" sizes="16x16" href="images/favicon.jpg">
-    
-    <link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Changa&display=swap" rel="stylesheet">   
-	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">     
-    
-    <link href="style/bootstrap.min.css" rel="stylesheet">
-    <link href="style/main-style.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" media="all" href="style/animate.css">
-    
-	<link href="style/owl.carousel.css" rel="stylesheet" >
-    <link href="style/owl.theme.css" rel="stylesheet" >
-    
-    
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63066304-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-63066304-1');
-</script>
-</head>
-
+<?php include('layouts/head.php') ?>
+<?php 
+$_SESSION["title"] = "From About Us";
+$_SESSION["content"] = "My First Content";
+$_SESSION["robots"] = "";
+$_SESSION["code"] = "";
+?>	
 <body>
 	
     <div id="top_arrow"></div>
@@ -41,73 +19,6 @@
     </button>
     
 <div class="page-wrapper">
-<header>
-	<div class="header">
-    	<div class="news-updates">
-            <div class="container-fluid">
-                <p>
-                <i class="fa fa-bullhorn"></i>&nbsp; 
-                    Since 2007 Real Web Idea serving in Web Development, SEO, PPC, SMM, YouTube
-                </p>
-            </div>
-    	</div> <!--news-updates ends-->
-        
-   	  <div class="container">
-      		<div class="menu">
-                <div class="logo animated bounceInDown">
-                    <a href="https://www.realwebidea.com/"><img src="images/logo-realwebidea.png" class="img-fluid" alt="Real Web Idea"></a>
-                </div>
-                <div class="menu-area">
-                	<nav class="navbar navbar-light navbar-expand-lg mainmenu">
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="active">
-                        	<a href="https://www.realwebidea.com/"><i class="fa fa-home"></i> Home 
-                        	<span class="sr-only">(current)</span></a>
-                        </li>
-                        <li><a href="about.html">About Us</a></li>
-                        <li class="dropdown">
-                            <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Services</a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a href="web-development.html">Web Development</a></li>
-                                <li><a href="digital-marketing.html">Digital Marketing</a></li>
-                                <li><a href="seo-services.html">SEO – Search Engine Optimization</a></li>
-                                <li><a href="ppc-services.html">PPC – Pay per Click</a></li>
-                                <li><a href="smm-services.html">SMM – Social Media Marketing</a></li>
-                                <li><a href="seo-audit-services.html">SEO Audits</a></li>
-                                <li><a href="seo-penalty-removal.html">SEO Penalty Removal</a></li>
-                                <li><a href="ecommerce-seo.html">e-Commerce SEO</a></li>
-                                <li><a href="content-writing-services.html">Content Writing </a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Trainings</a>
-                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li><a href="digital-marketing-training-lahore.html">Digital Marketing Course</a></li>
-										<li><a href="seo-training-lahore.html">SEO Course</a></li>
-										<li><a href="ppc-training-lahore.html">PPC Course</a></li>
-										<li><a href="smm-training-lahore.html">SMM Course</a></li>
-										<li><a href="seo-audit-training-lahore.html">SEO Audits Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                        <li><a href="wordpress-web-development-course-lahore.html">WordPress Web Development Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                		<li><a href="content-writing-training-lahore.html">Content Writing Course</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="portfolio.html">Clients</a></li>
-                        <li><a href="our-team.html">Our Team</a></li>
-                        <li><a href="contact.html">Contact Us</a></li>
-                    </ul>
-                </div>
-            </nav>
-                </div> <!--menu-area ends-->
-            </div> <!--menu ends-->
-      </div> <!--container ends-->	
-    </div> <!--header ends-->
-</header>
 
 <section>
 	<div class="inner-banner">
@@ -130,143 +41,7 @@
 		</div>
 </section>
 
-<footer>
-    	<div class="footer">
-        	<div class="footer-intro">
-    			<div class="container">
-    				<div class="col-md-8 offset-md-2">
-						<p>
-							<a href="https://www.facebook.com/realwebidea/" rel="nofollow" target="_blank" title="Real Web Idea | Facebook">
-								<img src="images/social-media/facebook.png" width="37" height="37" alt="RealWebIdea Lahore"/>
-							</a>
-							<a href="https://twitter.com/realwebidea" rel="nofollow" target="_blank" title="Real Web Idea | Twitter">
-								<img src="images/social-media/twitter.png" width="37" height="37" alt="RealWebIdea Lahore"/>
-							</a> 
-							<a href="https://pk.linkedin.com/in/realwebidea" rel="nofollow" target="_blank" title="Real Web Idea | Linkedin">
-								<img src="images/social-media/linkedin.png" width="37" height="37" alt="RealWebIdea Lahore"/>
-							</a>  
-						</p>
-
-<p>Hire our Search Engine Optimization services to get top ranking of your website in Google's 1st Page in organic results on SERP, also you can hire SEM/PPC services for ROI quick results as well as get SMO/SMM services to stand alone on social media platforms.</p>
-   					</div>
-    			</div>
-    		</div> <!--footer-top ends-->
-        
-
-
-    		<div class="container-fluid">
-	            <div class="footer-bot">
-    				<div class="container">
-    					<div class="row">
-                        	<div class="col-md-4 col-sm-8">
-   								<div class="quicklinks">
-   								<h3>Services</h3>
-   								<div class="ql-body">
-									<ul>
-										<li><a href="web-development.html">Web Development</a></li>
-										<li><a href="digital-marketing.html">Digital Marketing Services</a></li>
-										<li><a href="seo-services.html">SEO Services</a></li>
-										<li><a href="ppc-services.html">PPC Services</a></li>
-										<li><a href="smm-services.html">SMM Services</a></li>
-										<li><a href="seo-audit-services.html">SEO Audits</a></li>
-                                        <li><a href="seo-penalty-removal.html">SEO Penalty Removal</a></li>
-                                        <li><a href="ecommerce-seo.html">eCommerce SEO</a></li>
-                                        <li><a href="content-writing-services.html">Content Writing </a></li>
-									</ul>
-								</div>
-   							</div>
-   							</div>
-                                                    
-                            <div class="col-md-4 col-sm-8">
-   								<div class="quicklinks">
-   								<h3>Trainings</h3>
-   								<div class="ql-body">
-									<ul>
-										<li><a href="digital-marketing-training-lahore.html">Digital Marketing Course</a></li>
-										<li><a href="seo-training-lahore.html">SEO Course</a></li>
-										<li><a href="ppc-training-lahore.html">PPC Course</a></li>
-										<li><a href="smm-training-lahore.html">SMM Course</a></li>
-										<li><a href="seo-audit-training-lahore.html">SEO Audits Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                        <li><a href="wordpress-web-development-course-lahore.html">WordPress Web Development Course</a></li>
-                                        <li><a href="seo-penalty-removal-training-lahore.html">SEO Penalty Removal Course</a></li>
-                                		<li><a href="content-writing-training-lahore.html">Content Writing Course</a></li>
-									</ul>
-								</div>
-   							</div>
-   							</div>
-                            <div class="col-md-4 col-sm-8">
-   								<div class="quicklinks">
-   								<h3>Company</h3>
-   								<div class="ql-body">
-									<ul>
-										<li><a href="about.html">About Us</a></li>
-                                        <li><a href="our-team.html">Our Team</a></li>
-                                        <li><a href="portfolio.html">Clients</a></li>
-                                        <li><a href="admission-form.html">Admission Form</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
-                                        <li><a href="realwebidea-brochure.html">Download Brochure</a></li>
-                                        <li><a href="payment-options.html">Payment Options</a></li>
-									</ul>
-								</div>
-   							</div>
-   							</div>
-    					</div>
-    				</div>
-    			</div> <!--footer-bot ends-->            
-
-
-    			<div class="footer-top">
-    				<div class="row">
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/phone.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			<a href="tel:+923008189123">+92 300 8189123</a> 
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/envelope.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			<a href="mailto:realwebidea@gmail.com">realwebidea@gmail.com</a>
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/skype.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			realwebidea 
-						  		</div>
-						  	</div>
-					  </div>
-					  <div class="col-md-3 col-sm-6 wow slideInUp">
-							<div class="rwi-contacts">
-						  		<span>
-						  			<img src="images/contact-icons/map-marker.png" width="60" height="60" alt="RealWebIdea Lahore"/>
-						  		</span>
-						  		<div class="contacts-txt">
-						  			UM-99-98, Zainab Tower, Link Road Model Town, Lahore.
-						  		</div>
-						  	</div>
-					  </div>
-    				</div>
-    			</div> <!--footer-top ends-->
-    		</div>	
-            
-			<div class="copyrights-area">
-		    	<p>&copy; 2007 - 2021 realwebidea, All rights reserved</p>
-		    </div> <!--copyrights-area ends-->
-    	</div>
-    </footer>
+<?php include('layouts/footer.php') ?>
 
 
 </div> <!--page-wrapper ends-->
